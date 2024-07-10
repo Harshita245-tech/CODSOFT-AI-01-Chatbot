@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 import re
 
 # Define rules for the chatbot with regex
@@ -52,7 +46,7 @@ def chatbot():
 chatbot()
 
 
-# In[ ]:
+
 
 
 
